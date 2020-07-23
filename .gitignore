@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__
+data
+.vscode
+data.csv
+student_data.csv
+Cat_Dog_data
+*.pth
+*.pt
+flower_photos
+project-bikesharing
+model_state_1
